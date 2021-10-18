@@ -89,8 +89,8 @@ is a structural design pattern that separates objects into three distinct groups
 ## 📱 Screenshots
 
 <p float="left"> 
-<img src="/Documentation/list.png" width="200">
-<img src="/Documentation/favourite_view.png" width="200">
+<img src="/list.png" width="200">
+<img src="favourite_view.png" width="200">
 <img src="/Documentation/detail1.png" width="200">
 <img src="/Documentation/delete_view.png" width="200">
 </p>
